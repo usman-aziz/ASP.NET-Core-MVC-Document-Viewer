@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GroupDocs.Viewer" Version="19.10.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Text.Json" Version="4.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="output\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Content\calibre_docx\page-1.png" />
+    <None Include="wwwroot\Content\calibre_docx\page-2.png" />
+    <None Include="wwwroot\Content\code_docx\page-1.png" />
+    <None Include="wwwroot\Content\code_docx\page-2.png" />
+    <None Include="wwwroot\Content\demo_docx\page-1.png" />
+  </ItemGroup>
+
+</Project>

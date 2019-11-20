@@ -1,0 +1,63 @@
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\bin\Debug\netcoreapp2.1\DocumentViewer.deps.json
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\bin\Debug\netcoreapp2.1\DocumentViewer.runtimeconfig.json
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\bin\Debug\netcoreapp2.1\DocumentViewer.runtimeconfig.dev.json
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\bin\Debug\netcoreapp2.1\DocumentViewer.dll
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\bin\Debug\netcoreapp2.1\DocumentViewer.pdb
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\bin\Debug\netcoreapp2.1\DocumentViewer.Views.dll
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\bin\Debug\netcoreapp2.1\DocumentViewer.Views.pdb
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.csproj.CoreCompileInputs.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorAssemblyInfo.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorAssemblyInfo.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.AssemblyInfoInputs.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.AssemblyInfo.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.TagHelpers.input.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.TagHelpers.output.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorCoreGenerate.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorTargetAssemblyInfo.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorTargetAssemblyInfo.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.Views.pdb
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.dll
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.pdb
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.csproj.CopyComplete
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\Source Code Viewer\obj\Debug\netcoreapp2.1\DocumentViewer.csprojAssemblyReference.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\bin\Debug\netcoreapp2.1\DocumentViewer.deps.json
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\bin\Debug\netcoreapp2.1\DocumentViewer.runtimeconfig.json
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\bin\Debug\netcoreapp2.1\DocumentViewer.runtimeconfig.dev.json
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\bin\Debug\netcoreapp2.1\DocumentViewer.dll
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\bin\Debug\netcoreapp2.1\DocumentViewer.pdb
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\bin\Debug\netcoreapp2.1\DocumentViewer.Views.dll
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\bin\Debug\netcoreapp2.1\DocumentViewer.Views.pdb
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.csproj.CoreCompileInputs.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorAssemblyInfo.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorAssemblyInfo.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.AssemblyInfoInputs.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.AssemblyInfo.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.TagHelpers.input.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.TagHelpers.output.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorCoreGenerate.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorTargetAssemblyInfo.cache
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.RazorTargetAssemblyInfo.cs
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.Views.pdb
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.dll
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.pdb
+C:\Users\USMAN-PC\source\repos\Source Code Viewer\DocumentViewer\obj\Debug\netcoreapp2.1\DocumentViewer.csproj.CopyComplete

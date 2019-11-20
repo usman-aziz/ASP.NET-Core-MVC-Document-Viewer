@@ -1,2 +1,2 @@
 # ASP.NET-Core-MVC-Document-Viewer
-A universal document viewer in ASP.NET Core MVC for 140+ file formats.
+A universal document viewer in ASP.NET Core MVC for 140+ file formats. For the document rendering at the backend, the application uses [**GroupDocs.Viewer for .NET**](https://products.groupdocs.com/viewer/net) API – a powerful [**file viewer**](https://en.wikipedia.org/wiki/File_viewer) API which supports over 140 document types including **PDF**, **Word**, **Excel**, **PowerPoint**, **Visio**, **CAD**, **Outlook**, and many other popular formats.

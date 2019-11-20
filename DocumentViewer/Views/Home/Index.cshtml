@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+<script>
+    function ViewDocument(file) {
+        $("#loader").fadeIn();
+        var data = { FileName: file };
+        $.ajax({
+            type: "POST",
+            url: '/Home/OnPost',
+            data: data,
+            dataType: "text"
+        }).done(function (data) {
+            var folderName = file.replace(".", "_");
+            $("#content").empty();
+            for (var i = 1; i <= data; i++) {
+                $("#content").append("<img src='Content/" + folderName + "/page-" + i + ".png'/>");
+            }
+            $("#loader").fadeOut();
+        })
+    }
+</script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $("#loader").fadeOut(1000);
+    });
+</script>
+<div class="row">
+    <div class="col-md-3">
+        <div class="sidenav">
+            <div id="loader"></div>
+            <h2 style="padding-left:15px">Files</h2>
+            @if (ViewBag.lstFiles != null)
+            {
+                @foreach (string file in ViewBag.lstFiles)
+                {
+                    <a href="#" onclick="ViewDocument('@file')">@file</a>
+                }
+            }
+        </div>
+    </div>
+    <div class="col-md-9">
+        <h2>Preview</h2>
+        <div id="content"></div>
+    </div>
+</div>
